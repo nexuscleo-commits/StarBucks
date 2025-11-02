@@ -163,7 +163,7 @@ h1.fade-in {
     z-index: -1; /* Fica atrás da imagem principal, mas na frente do fundo geral */
     transition: --cor-1 1s, --cor-2 1s; /* Transição suave para as variáveis de cor */
     border-radius: 10px;
-    opacity: 0.3; /* Deixa o fundo mais sutil */
+    opacity: 0.6; /* Deixa o fundo mais sutil */
 }
 
 /* Classe dedicada para controlar a animação */
