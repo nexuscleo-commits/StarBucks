@@ -6,14 +6,6 @@
 
 Este é um projeto de uma landing page interativa para a Starbucks, desenvolvido para demonstrar habilidades em HTML, CSS moderno e JavaScript. A página apresenta um design elegante e responsivo, com animações suaves que proporcionam uma experiência de usuário agradável e dinâmica.
 
-## 🚀 Demonstração
-
-Você pode ver uma demonstração do projeto em ação abaixo:
-
-*(Dica: Grave um GIF da tela do seu projeto e adicione aqui para um README ainda mais profissional!)*
-
- 
-
 ## ✨ Funcionalidades
 
 - **Design Responsivo:** Layout totalmente adaptável para desktops, tablets e dispositivos móveis.
@@ -52,6 +44,9 @@ Para executar este projeto localmente, siga os passos abaixo:
    ```
 2. **Abra o arquivo `index.html` no seu navegador:**
    Você pode simplesmente clicar duas vezes no arquivo `index.html` para abri-lo.
+
+3. **Clique no link para abrir no seu navegador:**
+    https://nexuscleo-commits.github.io/StarBucks/
 
 E pronto! O projeto estará rodando na sua máquina.
 
