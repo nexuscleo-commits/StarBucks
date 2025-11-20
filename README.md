@@ -39,13 +39,13 @@ O projeto foi construído com as seguintes tecnologias:
 Para executar este projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório clicando aqui:**
-   https://github.com/nexuscleo-commits/StarBucks/archive/refs/heads/main.zip
+   https://github.com/nexuscleo/starbucks/archive/refs/heads/main.zip
 
 2. **Abra o arquivo `index.html` no seu navegador:**
    Você pode simplesmente clicar duas vezes no arquivo `index.html` para abri-lo.
 
 3. **Ou clique no link para abrir no seu navegador:**
-    https://nexuscleo-commits.github.io/StarBucks/
+    https://nexuscleo.github.io/starbucks/
 
 E pronto! O projeto estará rodando na sua máquina.
 
